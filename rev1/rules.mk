@@ -1,0 +1,3 @@
+SPLIT_KEYBOARD = yes
+MCU = STM32F303
+CTPC = yes
